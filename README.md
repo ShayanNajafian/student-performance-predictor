@@ -249,4 +249,4 @@ Model predictions represent statistical relationships in the training data and s
 
 Try the deployed application:
 
-https://YOUR-APP-NAME.streamlit.app
+https://student-performance-predictor-nloywuaavlu4dzr2gvkob2.streamlit.app
