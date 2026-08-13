@@ -244,3 +244,9 @@ The dataset is relatively small and represents students from only two Portuguese
 The model is intended as a machine-learning demonstration rather than a definitive assessment of an individual student's ability or academic potential.
 
 Model predictions represent statistical relationships in the training data and should not be interpreted as causal conclusions.
+
+## Live Demo
+
+Try the deployed application:
+
+https://YOUR-APP-NAME.streamlit.app
